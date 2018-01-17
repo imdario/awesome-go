@@ -825,6 +825,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *Libraries for accessing third party APIs.*
 
 * [anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
+* [aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 * [aws-sdk-go](https://github.com/aws/aws-sdk-go) - The official AWS SDK for the Go programming language.
 * [brewerydb](https://github.com/naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
 * [clarifai](https://github.com/samuelcouch/clarifai) - A Go client library for interfacing with the Clarifai API.
@@ -836,6 +837,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [geo-golang](https://github.com/codingsince1985/geo-golang) - Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](http://open.mapquestapi.com/nominatim/), [OpenCage](http://geocoder.opencagedata.com/api.html), [HERE](https://developer.here.com/rest-apis/documentation/geocoder) and [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx) geocoding / reverse geocoding APIs.
 * [ghost](https://github.com/neuegram/ghost) - Go Library for accessing the Snapchat API.
 * [github](https://github.com/google/go-github) - Go library for accessing the GitHub API.
+* [gluo](https://github.com/imdario/gluo) - Gluo allows you to write your Go net/http server once, deploy it everywhere (on-premise & AWS Lambda supported).
 * [go-marathon](https://github.com/gambol99/go-marathon) - A Go library for interacting with Mesosphere's Marathon PAAS
 * [goamz](https://github.com/mitchellh/goamz) - Popular fork of [goamz](https://launchpad.net/goamz) which adds some missing API calls to certain packages.
 * [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz) - a Go MusicBrainz WS2 client library
